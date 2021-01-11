@@ -1,7 +1,6 @@
 ### Hi there, I'm [Ivan Kudriavcev!](https://github.com/nobody-dev) 👋
 
 <br />
-<br />
 
 I'm a Javascript lover and a frontend developer from Russia
 
