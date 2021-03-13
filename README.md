@@ -6,7 +6,6 @@ I'm a Javascript lover and a frontend developer from Russia
 
 - 🔭 I’m currently working on [the-way](https://github.com/nobody-dev/the-way)
 - 🌱 I’m currently learning Typescript
-- 👯 I'm Working as FrontEnd Developer at [Sberhealth](https://https://sberhealth.ru/)
 
 ### I work with: 
 
