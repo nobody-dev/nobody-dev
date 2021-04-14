@@ -9,6 +9,7 @@ I'm a Javascript lover and a frontend developer from Russia
 - 🔭 I’m currently working on [the-way](https://github.com/nobody-dev/the-way)
 - 🌱 I’m currently learning Typescript
 - 👯 I'm currently working at [SberHealth](https://sberhealth.ru/)
+- ⚡ Fun fact: I love animals :)
 
 ### I work with: 
 
