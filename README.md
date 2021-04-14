@@ -1,6 +1,6 @@
 ### Hi there, I'm [Ivan Kudriavcev!](https://github.com/nobody-dev) 👋
 
-[<img src="https://s4.gifyu.com/images/arte0ca1f131c577ed7.gif" alt="👋 Hi there! I'm (Ivan nobody-dev Kudryavcev)|https://nobody.dev)" title="👋 Hi there! I'm (Ivan nobody-dev Kudryavcev)|https://nobody.dev)"/>](https://nobody.dev/)
+[<img style="width: 50vw" src="https://s4.gifyu.com/images/arte0ca1f131c577ed7.gif" alt="👋 Hi there! I'm (Ivan nobody-dev Kudryavcev)|https://nobody.dev)" title="👋 Hi there! I'm (Ivan nobody-dev Kudryavcev)|https://nobody.dev)"/>](https://nobody.dev/)
 
 <br />
 
