@@ -1,5 +1,7 @@
 ### Hi there, I'm [Ivan Kudriavcev!](https://github.com/nobody-dev) 👋
 
+[<img src="https://raw.githubusercontent.com/Raymo111/Raymo111/master/intro.gif" alt="👋 Hi there! I'm (Raymo(111|nd Li)|https://raymond.li)" title="👋 Hi there! I'm (Raymo(111|nd Li)|https://raymond.li)"/>](https://raymond.li/)
+
 <br />
 
 I'm a Javascript lover and a frontend developer from Russia
