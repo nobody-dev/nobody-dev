@@ -1,5 +1,5 @@
 ### Hi there, I'm [Ivan Kudriavcev!](https://github.com/nobody-dev) 👋 
-I'm a Javascript lover and a frontend developer from Russia
+#### I'm a Javascript lover and a frontend developer from Russia
 <p>
   <p>
     <img src="https://img.shields.io/badge/-Visual%20Studio%20Code-23A9F2?style=flat-square&logo=Visual%20Studio%20Code&logoColor=white"/>
