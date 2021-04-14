@@ -2,8 +2,8 @@
 #### I'm a Javascript lover and a frontend developer from Russia
 
 #### 💻Technologies & Tools
-<div>
-  <div style="width: 50%;">
+<div style="display: flex;">
+  <div>
     <img src="https://img.shields.io/badge/-Visual%20Studio%20Code-23A9F2?style=flat-square&logo=Visual%20Studio%20Code&logoColor=white"/>
     <img src="https://img.shields.io/badge/-WebStorm-23A9F2?style=flat-square&logo=WebStorm&logoColor=white"/>
     <img src="https://img.shields.io/badge/-Linux-A80030?style=flat-square&logo=Linux&logoColor=white"/>
@@ -26,7 +26,7 @@
     <img src="https://img.shields.io/badge/-Nuxt.js-2f495e?style=flat-square&logo=Nuxt.js&logoColor=white"/>
     <img src="https://img.shields.io/badge/-Jest-a2838b?style=flat-square&logo=Jest&logoColor=white"/>
   </div>
-  <div style="width: 50%;">
+  <div>
     <img src="https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif"/>
   </div>
 </div>
