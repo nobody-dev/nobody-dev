@@ -1,5 +1,4 @@
 ### Hi there, I'm [Ivan Kudriavcev!](https://github.com/nobody-dev) 👋
-![visitors](https://visitor-badge-reloaded.herokuapp.com/badge?page_id=nobody-dev.nobody-dev&color=00cf00)
 
 <br />
 
