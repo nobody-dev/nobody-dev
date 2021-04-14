@@ -1,6 +1,8 @@
 ### Hi there, I'm [Ivan Kudriavcev!](https://github.com/nobody-dev) 👋 
 #### I'm a Javascript lover and a frontend developer from Russia
 
+<img src="https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif"/>
+
 #### 💻Technologies & Tools
 <div>
   <div>
@@ -25,9 +27,6 @@
     <img src="https://img.shields.io/badge/-Vue.js-42B883?style=flat-square&logo=Vue.js&logoColor=white"/>
     <img src="https://img.shields.io/badge/-Nuxt.js-2f495e?style=flat-square&logo=Nuxt.js&logoColor=white"/>
     <img src="https://img.shields.io/badge/-Jest-a2838b?style=flat-square&logo=Jest&logoColor=white"/>
-  </div>
-  <div align="right" height="200px">
-    <img src="https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif"/>
   </div>
 </div>
 
