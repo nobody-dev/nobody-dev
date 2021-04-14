@@ -31,10 +31,9 @@
 
 <br />
 
-##### 🔭 I’m currently working on [the-way](https://github.com/nobody-dev/the-way)
-##### 🌱 I’m currently learning Typescript
-##### 👯 I'm currently working at [SberHealth](https://sberhealth.ru/)
-##### 🌍 I'm mostly active within the Vue.js community
-##### ⚡ Fun fact: I love animals :)
+-🔭 I’m currently working on [the-way](https://github.com/nobody-dev/the-way)
+-🌱 I’m currently learning Typescript
+-👯 I'm currently working at [SberHealth](https://sberhealth.ru/)
+-⚡ Fun fact: I love animals :)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nobody-dev&layout=compact)
